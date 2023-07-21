@@ -1,0 +1,48 @@
+
+old_storage_manager
+
+first database containing no user interaction first made when reordering the storage drawers
+
+------------------------------------------------------------------------
+
+storage_manager_v0
+
+very simplified version, on a csv file
+user interface with notepad or excel
+
+------------------------------------------------------------------------
+
+storage_manager_v1
+
+simplified version, on an excel file
+user interface with excel
+
+------------------------------------------------------------------------
+
+storage_manager_v2
+
+actual database, based on a csv file
+user interface with terminal program
+
+implemented functionality:
+				add new database line
+				remove database line
+
+------------------------------------------------------------------------
+
+storage_manager_v3
+
+added functionality:
+			display chosen database line
+
+user can no longer delete the database header (first line)
+
+------------------------------------------------------------------------
+
+storage_manager_v4
+
+added functionality:
+			backup database to desired directory and file
+			find the inputted string among the descriptions
+
+------------------------------------------------------------------------
